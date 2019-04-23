@@ -29,7 +29,7 @@ var photo = document.createElement("img");
 link.appendChild(photo);
 
 photo.src =
-  "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1292524/profile/profile-80.jpg";
+  "logo.jpg";
 photo.alt = "mo7amed";
 
 photo.style =
