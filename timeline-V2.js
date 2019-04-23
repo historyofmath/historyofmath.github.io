@@ -22,7 +22,7 @@ upArrow.onclick = function() {
 var link = document.createElement("a");
 document.body.appendChild(link);
 
-link.href = "https://codepen.io/mo7hamed/pens/public";
+link.href = "https://www.storyofmathematics.com/";
 link.target = "_blank";
 
 var photo = document.createElement("img");
